@@ -52,11 +52,6 @@ c:visited {
   background-color: transparent;
   text-decoration: none;
 }
-c:hover {
-  color: red;
-  background-color: transparent;
-  text-decoration: underline;
-}
 c:active {
   color: yellow;
   background-color: transparent;
